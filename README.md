@@ -152,7 +152,8 @@ A: 1. シェルフ上の「PKLite」アイコンを右クリックして「削�
 --------------------------------------------------------------------------------
 製作者 :YamaP
 ショップ：https://yworks.booth.pm/
-サポート：不具合の報告やご要望は、Gtihub・BOOTHのメッセージ機能よりご連絡ください。
+サポート：バグの報告や機能の提案は、[Issues] ページからお気軽にご投稿ください。
+Please open an issue on the [Issues] page to report bugs or request features.
 
 Copyright (c) 2026 mashitaya. All rights reserved.
 ================================================================================
